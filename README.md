@@ -1,4 +1,4 @@
-# My CPU CSE Programming Contest Statistics
+# My CPU CSE Programming Contests Statistics
 | Contest Name | Username | Rank/Position | Total Contestant |
 | :------------: | :--------: | :-------------: | :----------------: |
 | [11th CPU CSE Programming Contest](https://toph.co/arena?contest=ugz769m#!/standings/p1) | [Nazmul_Hossin](https://toph.co/u/Nazmul_Hossin) | 3rd | 38 |
