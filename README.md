@@ -11,3 +11,6 @@
 | [5th CPU CSE Programming Contest](https://toph.co/arena?contest=5th-cpu-cse#!/standings/p1) | [Nazmul_Hossin](https://toph.co/u/Nazmul_Hossin) | 14th | 25 |
 | [4th CPU CSE Programming Contest](https://toph.co/arena?contest=4th-cpu-cse#!/standings/p1) | [Nazmul_Hossin](https://toph.co/u/Nazmul_Hossin) | 12th | 14 |
 | [3rd CPU CSE Programming Contest](https://toph.co/arena?contest=iu-cse-selection-contest-icpc-2019#!/standings/p1) | [Nazmul_Hossin](https://toph.co/u/Nazmul_Hossin) | 24th | 36 |
+
+## About CPU
+The **[Competitive Programmer's Union (CPU)](https://www.facebook.com/cpu.cse.iu)** is a programming community established at **[Islamic University, Bangladesh](https://www.iu.ac.bd/)**. By hosting practice contests and workshops on competitive programming fundamentals, CPU provides a platform for students to enhance their programming skills. It organizes programming contests every 4 months.
