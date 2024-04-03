@@ -1,6 +1,7 @@
 # My CPU CSE Programming Contests Statistics
 | Contest Name | Username | Rank/Position | Total Contestant |
 | :------------: | :--------: | :-------------: | :----------------: |
+| [CPU CSE Ramadan Programming Contest 2024](https://toph.co/contests/training/kfj7rnt/standings) | [Nazmul_Hossin](https://toph.co/u/Nazmul_Hossin) | 3rd | 31 |
 | [11th CPU CSE Programming Contest](https://toph.co/arena?contest=ugz769m#!/standings/p1) | [Nazmul_Hossin](https://toph.co/u/Nazmul_Hossin) | 3rd | 38 |
 | [10th CPU CSE Programming Contest](https://codeforces.com/gym/479622/standings) | [nazmul_hossin](https://codeforces.com/profile/nazmul_hossin) | 3rd | 36 |
 | [9th CPU CSE Programming Contest](https://toph.co/arena?contest=maadpgu#!/standings/p1) | [Nazmul_Hossin](https://toph.co/u/Nazmul_Hossin) | 5th | 42 |
